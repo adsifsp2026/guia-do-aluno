@@ -15,6 +15,7 @@ Esse repositório tem como objetivo facilitar a vida do aluno de TADS do IF de C
 
 ## Guia do Aluno Ingressante
 O primeiro passo é acessa o [Guia do Aluno Ingressante](https://portal.cmp.ifsp.edu.br/index.php?option=com_content&view=article&layout=edit&id=2500) preparado pela instituição;
+
 ---
 
 ## Links úteis
