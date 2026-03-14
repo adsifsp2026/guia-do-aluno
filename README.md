@@ -1,6 +1,7 @@
 # Guia do Aluno IFSP TADS Campinas
-Seja bem-vindo(a)! Se você está lendo isso, existe a chance que você seja um ingressante na instituição, para facilitar as coisas leia o [Guia do Aluno Ingressante](#guia-do-aluno-ingressante).
-Esse repositório tem como objetivo facilitar a vida do aluno de TADS do IF de Campinas. Nesse repositório você encontrará:
+Seja bem-vindo(a)! Este é um guia feito de alunos para alunos, com o objetivo de facilitar a jornada acadêmica no curso de TADS no IFSP Campinas. Explore o índice abaixo para encontrar materiais de estudo, links úteis, dicas de sobrevivência no campus e mais.
+
+Se você está lendo isso, existe a chance que você seja um ingressante na instituição, para facilitar as coisas leia o [Guia do Aluno Ingressante](#guia-do-aluno-ingressante).
 
 ---
 
