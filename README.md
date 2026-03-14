@@ -30,7 +30,7 @@ Em construção...
 ---
 
 ## Dicas
-- **Wi-Fi**: para acessar o Wi-Fi você precisará do seu prontuário (ex: CP1234567) e a senha que você criou no SUAP. Com isso em mãos, basta entrar na rede **"eduroam"** e realizar o login com o seu prontuário e senha;
+- **Wi-Fi**: Para acessar o Wi-Fi, você precisará do seu prontuário (ex: CP1234567) e da senha que você criou no SUAP. Com isso em mãos, basta entrar na rede 'eduroam' e realizar o login;
 - **Cantina**: para quem estuda à noite -> **a cantina fecha às 21h** <-. Não se esqueça de avisar o professor sobre o intervalo às 20h50; às vezes eles entram em "estado de flow" e extrapolam o tempo.
 
 ---
